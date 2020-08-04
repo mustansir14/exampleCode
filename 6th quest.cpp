@@ -3,5 +3,5 @@
 using namespace std;
 int main()
 {
-    cout << "sixth question is stupid!" << endl;
+    cout << "sixth question is not stupid!" << endl;
 }
